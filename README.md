@@ -31,9 +31,9 @@
 
 ## First/Co-first Author
 
-- [**IROS2025**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [Repo](https://github.com/TATP-233/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/DISCOVERSE?style=social)
+- [**IROS2025 Oral**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [Repo](https://github.com/TATP-233/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/DISCOVERSE?style=social)
 
-- [**IROS2024**] Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot, [Repo](https://github.com/aCodeDog/legged-robots-manipulation) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
+- [**IROS2024 Oral**] Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot, [Webpage](https://acodedog.github.io/wheel-legged-loco-manipulation/) / [Repo](https://github.com/aCodeDog/legged-robots-manipulation) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
 
 - [**ICRA2023 Poster**] Designing the Whole-Body Controller for a Wheel-Legged Mobile Manipulator, [Webpage](https://air.tsinghua.edu.cn/OpenARX6.htm)
 
