@@ -39,7 +39,7 @@
 
 ## Co-Author
 
-- [**arXiv2025**] Vision-Based Locomotion for Legged Robots: Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments, [Repo](https://github.com/aCodeDog/OmniPerception) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
+- [**CoRL2025**] Vision-Based Locomotion for Legged Robots: Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments, [arXiv](https://arxiv.org/abs/2505.19214) / [Repo](https://github.com/aCodeDog/OmniPerception) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 
 - [**arXiv2025**] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation, [arXiv](https://arxiv.org/abs/2503.10118)
 
