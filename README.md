@@ -16,7 +16,6 @@
 <p  style="margin-top: -10px;">
   <a href="mailto:jyf23@mails.tsinghua.edu.cn"><img src="./assets/icon/email.png" height="24px" style="margin-bottom:-4px"></a>&nbsp;
   <a href="./assets/my_wechat.jpg"><img src="./assets/icon/wechat.png" height="24px" style="margin-bottom:-3px"></a>&nbsp; 
-  <a href="https://space.bilibili.com/369324290"><img src="./assets/icon/bilibili.png" height="24px" style="margin-bottom:-4px"></a>&nbsp;
   <a href="https://github.com/TATP-233"><img src="./assets/icon/github.png" height="24px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=T7lpt7YAAAAJ&hl=en"><img src="./assets/icon/scholar.png" height="24px" style="margin-bottom:-3px"></a>&nbsp;
 </p>
