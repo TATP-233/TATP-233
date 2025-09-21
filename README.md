@@ -29,6 +29,7 @@
 # 📑 Researches
 
 ## First/Co-first Author
+- [**Under Review**] ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations, [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125)
 
 - [**IROS2025 Oral**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/TATP-233/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/DISCOVERSE?style=social)
 
@@ -40,9 +41,9 @@
 
 - [**CoRL2025**] Vision-Based Locomotion for Legged Robots: Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments, [arXiv](https://arxiv.org/abs/2505.19214) / [Repo](https://github.com/aCodeDog/OmniPerception) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 
-- [**arXiv2025**] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation, [arXiv](https://arxiv.org/abs/2503.10118)
+- [**Under Review**] Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning, [arXiv](https://arxiv.org/abs/2502.09649)
 
-- [**arXiv2024**] Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning, [arXiv](https://arxiv.org/abs/2502.09649)
+- [**arXiv2025**] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation, [arXiv](https://arxiv.org/abs/2503.10118)
 
 
 # 🛠 Open-source Projects
