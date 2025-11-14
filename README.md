@@ -1,7 +1,7 @@
 <div align="center">
   <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yufei Jia (贾宇飞) Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TATP-233">
-  <!-- <img alt="GitHub User's stars" src="https://img.shields.io/badge/stars-930-brightgreen"> -->
+  <!-- <img alt="GitHub User's stars" src="https://img.shields.io/badge/stars-9130-brightgreen"> -->
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/TATP-233">
   <!-- <img alt="GitHub followers" src="https://img.shields.io/badge/followers-40-blue"> -->
 </div>
@@ -57,6 +57,8 @@
 - [**MuJoCo-LiDAR**] A high-performance LiDAR simulation tool designed for MuJoCo, [Repo](https://github.com/TATP-233/MuJoCo-LiDAR) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/MuJoCo-LiDAR?style=social)
 
 - [**urdf2mjcf**] A one-click generation tool of sim-ready MJCF files from URDF format, [Repo](https://github.com/TATP-233/urdf2mjcf) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/urdf2mjcf?style=social)
+
+- [**ROBOCON2026-MuJoCo**] A MuJoCo simulation environment designed for ROBOCON2026 provides a variety of robot motion control strategies and supports multiple sensors and ROS2 interfaces, [Repo](https://github.com/TATP-233/ROBOCON2026_Scene) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/ROBOCON2026_Scene?style=social)
 
 # 💡 Academic Service
 
