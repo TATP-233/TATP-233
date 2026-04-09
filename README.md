@@ -21,21 +21,21 @@
 </p>
 </br>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TATP-233&layout=compact">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TATP-233&show_icons=true&theme=tokyonight">
-</div>
+</div> -->
 
 # 📑 Researches
 
 ## First/Co-first Author
-- [**IROS2025 Oral**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/TATP-233/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/DISCOVERSE?style=social)
+- [**RAL2026**] ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations, [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125)
 
-- [**RAL2026**] ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations, [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125) / [Repo](https://zheng-joe-lee.github.io/manivid3d/)
+- [**IROS2025 Oral**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/discoverse-dev/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/DISCOVERSE?style=social)
 
-- [**Under Review**] FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR, [arXiv](https://arxiv.org/abs/2509.17390) / [Repo](https://github.com/TATP-233/FGGS-LiDAR)
+- FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR, [arXiv](https://arxiv.org/abs/2509.17390) / [Repo](https://github.com/TATP-233/FGGS-LiDAR)
 
-- [**Under Review**] FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks, [arXiv](https://arxiv.org/abs/2509.17053) / [Repo](https://github.com/TATP-233/FILIC)
+- FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks, [arXiv](https://arxiv.org/abs/2509.17053) / [Repo](https://github.com/TATP-233/FILIC)
 
 - [**IROS2024 Oral**] Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot, [Webpage](https://acodedog.github.io/wheel-legged-loco-manipulation/) / [arXiv](https://arxiv.org/abs/2403.16535) / [Repo](https://github.com/aCodeDog/legged-robots-manipulation) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
 
@@ -52,11 +52,11 @@
 
 # 🛠 Open-source Projects
 
-- [**MuJoCo-LiDAR**] A high-performance LiDAR simulation tool designed for MuJoCo, [Repo](https://github.com/TATP-233/MuJoCo-LiDAR) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/MuJoCo-LiDAR?style=social)
+- [**MuJoCo-LiDAR**] A high-performance LiDAR simulation tool designed for MuJoCo, [Repo](https://github.com/discoverse-dev/MuJoCo-LiDAR) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/MuJoCo-LiDAR?style=social)
 
-- [**urdf2mjcf**] A one-click generation tool of sim-ready MJCF files from URDF format, [Repo](https://github.com/TATP-233/urdf2mjcf) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/urdf2mjcf?style=social)
+- [**urdf2mjcf**] A one-click generation tool of sim-ready MJCF files from URDF format, [Repo](https://github.com/discoverse-dev/urdf2mjcf) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/urdf2mjcf?style=social)
 
-- [**ROBOCON2026-MuJoCo**] A MuJoCo simulation environment designed for ROBOCON2026 provides a variety of robot motion control strategies and supports multiple sensors and ROS2 interfaces, [Repo](https://github.com/TATP-233/ROBOCON2026_Scene) ![GitHub stars](https://img.shields.io/github/stars/TATP-233/ROBOCON2026_Scene?style=social)
+- [**ROBOCON2026-MuJoCo**] A MuJoCo simulation environment designed for ROBOCON2026 provides a variety of robot motion control strategies and supports multiple sensors and ROS2 interfaces, [Repo](https://github.com/discoverse-dev/ROBOCON2026) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/ROBOCON2026?style=social)
 
 # 💡 Academic Service
 
