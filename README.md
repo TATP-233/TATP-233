@@ -29,6 +29,8 @@
 # 📑 Researches
 
 ## First/Co-first Author
+- [**RSS2026**] GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning, [Webpage](https://gsplayground.github.io/) / [arXiv](https://arxiv.org) / [Repo](https://github.com/discoverse-dev/gs_playground)
+
 - [**RAL2026**] ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations, [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125)
 
 - [**IROS2025 Oral**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/discoverse-dev/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/DISCOVERSE?style=social)
