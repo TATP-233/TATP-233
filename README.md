@@ -44,12 +44,13 @@
 - [**ICRA2023 Poster**] Designing the Whole-Body Controller for a Wheel-Legged Mobile Manipulator, [Webpage](https://air.tsinghua.edu.cn/OpenARX6.htm)
 
 ## Co-Author
+- [**RSS2026**] HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation, [arXiv](https://arxiv.org/abs/2602.06341)
 
 - [**CoRL2025 Oral**] Vision-Based Locomotion for Legged Robots: Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments, [arXiv](https://arxiv.org/abs/2505.19214) / [Repo](https://github.com/aCodeDog/OmniPerception) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 
 - [**RAL2025**] Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning, [arXiv](https://arxiv.org/abs/2502.09649)
 
-- [**arXiv2025**] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation, [arXiv](https://arxiv.org/abs/2503.10118)
+- An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation, [arXiv](https://arxiv.org/abs/2503.10118)
 
 
 # 🛠 Open-source Projects
