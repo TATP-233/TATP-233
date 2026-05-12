@@ -1,72 +1,98 @@
 <div align="center">
-  <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Yufei Jia (贾宇飞) Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-  <!-- <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TATP-233"> -->
-  <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/TATP-233"> -->
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Hi, I'm Yufei Jia (贾宇飞)
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
+  </h1>
+  <!-- <img src="./assets/tatp.PNG" width="180" alt="Yufei Jia portrait"> -->
+  <h3>Embodied AI Systems | High-Performance Simulation & Robot Learning Infrastructure</h3>
+  <p>
+    PhD Student, Department of Electronic Engineering, Tsinghua University<br>
+    Building scalable simulation, sensing, and sim-to-real systems for robot learning
+  </p>
 </div>
 
 <p align="center">
- <h3> Welcome to my page 🏠 ! </h3> 
- <h3> I'm <b>Yufei Jia</b>, a PhD student (since 2023) in the Department of Electronic Engineering at Tsinghua University. </h3>
- <h3> I received my B.E. in Department of Automation from Tsinghua University (2019-2023). </h3>
- <h3> My research focuses on <b>Embodied AI</b> especially on robot simulators and whole-body mobile manipulation. </h3>
- <h3> If you are interested in my research, please feel free to contact me. I would be more than happy to collaborate on creating some awesome work together. </h3> 
+  <a href="mailto:jyf23@mails.tsinghua.edu.cn"><img src="./assets/icon/email.png" height="24px" alt="Email"></a>&nbsp;
+  <a href="./assets/my_wechat.jpg"><img src="./assets/icon/wechat.png" height="24px" alt="WeChat"></a>&nbsp;
+  <a href="https://github.com/TATP-233"><img src="./assets/icon/github.png" height="24px" alt="GitHub"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=T7lpt7YAAAAJ&hl=en"><img src="./assets/icon/scholar.png" height="24px" alt="Google Scholar"></a>&nbsp;
 </p>
-</br>
 
-<p  style="margin-top: -10px;">
-  <a href="mailto:jyf23@mails.tsinghua.edu.cn"><img src="./assets/icon/email.png" height="24px" style="margin-bottom:-4px"></a>&nbsp;
-  <a href="./assets/my_wechat.jpg"><img src="./assets/icon/wechat.png" height="24px" style="margin-bottom:-3px"></a>&nbsp; 
-  <a href="https://github.com/TATP-233"><img src="./assets/icon/github.png" height="24px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=T7lpt7YAAAAJ&hl=en"><img src="./assets/icon/scholar.png" height="24px" style="margin-bottom:-3px"></a>&nbsp;
-</p>
-</br>
+---
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TATP-233&layout=compact">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TATP-233&show_icons=true&theme=tokyonight">
-</div> -->
+I design and build high-throughput infrastructure for embodied intelligence: photorealistic robot simulators, GPU-accelerated sensor pipelines, real-sim-real evaluation workflows, and whole-body control systems that move research from algorithm prototypes toward deployable robot stacks.
 
-# 📑 Researches
+I am a PhD student at Tsinghua University, advised in embodied AI and robot learning. I received my B.E. from the Department of Automation, Tsinghua University in 2023.
 
-## First/Co-first Author
-- [**RSS2026**] GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning, [Webpage](https://gsplayground.github.io/) / [arXiv](https://arxiv.org/abs/2604.25459) / [Repo](https://github.com/discoverse-dev/gs_playground) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social)
+## Infrastructure Focus
 
-- [**RAL2026**] ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations, [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125)
+- **High-throughput robot simulation:** scalable simulators for vision-informed robot learning, high-fidelity environments, and large-scale policy training.
+- **GPU-accelerated perception infrastructure:** fast LiDAR and 3D Gaussian Splatting based sensing pipelines for simulation and evaluation.
+- **Sim-to-real system design:** reusable bridges across simulators, robot assets, controllers, ROS2 interfaces, and deployment workflows.
+- **Whole-body mobile manipulation:** loco-manipulation systems that combine control, perception, and reinforcement learning under real robot constraints.
 
-- [**IROS2025 Oral**] DISCOVERSE: Efficient Robot SImulation in Complex High-Fidelity Environments, [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/discoverse-dev/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/DISCOVERSE?style=social)
+## Selected Systems
 
-- FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR, [arXiv](https://arxiv.org/abs/2509.17390) / [Repo](https://github.com/TATP-233/FGGS-LiDAR)
+| System | Role | What it enables |
+| --- | --- | --- |
+| [GS-Playground](https://gsplayground.github.io/) | First author | High-throughput photorealistic simulation for vision-informed robot learning |
+| [DISCOVERSE](https://air-discoverse.github.io/) | First author | Efficient robot simulation in complex, high-fidelity environments |
+| [FGGS-LiDAR](https://arxiv.org/abs/2509.17390) | First / co-first author | Ultra-fast GPU-accelerated LiDAR simulation from general 3DGS models |
+| [MuJoCo-LiDAR](https://github.com/discoverse-dev/MuJoCo-LiDAR) | Open-source project | High-performance LiDAR simulation for MuJoCo |
+| [urdf2mjcf](https://github.com/discoverse-dev/urdf2mjcf) | Open-source project | One-click generation of simulation-ready MJCF assets from URDF |
 
-- FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks, [arXiv](https://arxiv.org/abs/2509.17053) / [Repo](https://github.com/TATP-233/FILIC)
+## Research
 
-- [**IROS2024 Oral**] Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot, [Webpage](https://acodedog.github.io/wheel-legged-loco-manipulation/) / [arXiv](https://arxiv.org/abs/2403.16535) / [Repo](https://github.com/aCodeDog/legged-robots-manipulation) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
+### First / Co-first Author
 
-- [**ICRA2023 Poster**] Designing the Whole-Body Controller for a Wheel-Legged Mobile Manipulator, [Webpage](https://air.tsinghua.edu.cn/OpenARX6.htm)
+- [**RSS 2026**] **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**  
+  [Webpage](https://gsplayground.github.io/) / [arXiv](https://arxiv.org/abs/2604.25459) / [Repo](https://github.com/discoverse-dev/gs_playground) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social)
 
-## Co-Author
-- [**RSS2026**] HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation, [arXiv](https://arxiv.org/abs/2602.06341)
+- [**RAL 2026**] **ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations**  
+  [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125)
 
-- [**CoRL2025 Oral**] Vision-Based Locomotion for Legged Robots: Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments, [arXiv](https://arxiv.org/abs/2505.19214) / [Repo](https://github.com/aCodeDog/OmniPerception) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
+- [**IROS 2025 Oral**] **DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments**  
+  [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/discoverse-dev/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/DISCOVERSE?style=social)
 
-- [**RAL2025**] Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning, [arXiv](https://arxiv.org/abs/2502.09649)
+- **FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR**  
+  [arXiv](https://arxiv.org/abs/2509.17390) / [Repo](https://github.com/TATP-233/FGGS-LiDAR)
 
-- An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation, [arXiv](https://arxiv.org/abs/2503.10118)
+- **FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**  
+  [arXiv](https://arxiv.org/abs/2509.17053) / [Repo](https://github.com/TATP-233/FILIC)
 
+- [**IROS 2024 Oral**] **Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot**  
+  [Webpage](https://acodedog.github.io/wheel-legged-loco-manipulation/) / [arXiv](https://arxiv.org/abs/2403.16535) / [Repo](https://github.com/aCodeDog/legged-robots-manipulation) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
 
-# 🛠 Open-source Projects
+- [**ICRA 2023 Poster**] **Designing the Whole-Body Controller for a Wheel-Legged Mobile Manipulator**  
+  [Webpage](https://air.tsinghua.edu.cn/OpenARX6.htm)
 
-- [**MuJoCo-LiDAR**] A high-performance LiDAR simulation tool designed for MuJoCo, [Repo](https://github.com/discoverse-dev/MuJoCo-LiDAR) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/MuJoCo-LiDAR?style=social)
+### Co-author
 
-- [**urdf2mjcf**] A one-click generation tool of sim-ready MJCF files from URDF format, [Repo](https://github.com/discoverse-dev/urdf2mjcf) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/urdf2mjcf?style=social)
+- [**RSS 2026**] **HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation**  
+  [arXiv](https://arxiv.org/abs/2602.06341)
 
-- [**ROBOCON2026-MuJoCo**] A MuJoCo simulation environment designed for ROBOCON2026 provides a variety of robot motion control strategies and supports multiple sensors and ROS2 interfaces, [Repo](https://github.com/discoverse-dev/ROBOCON2026) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/ROBOCON2026?style=social)
+- [**CoRL 2025 Oral**] **Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments**  
+  [arXiv](https://arxiv.org/abs/2505.19214) / [Repo](https://github.com/aCodeDog/OmniPerception) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 
-# 💡 Academic Service
+- [**RAL 2025**] **Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**  
+  [arXiv](https://arxiv.org/abs/2502.09649)
 
-- [**ICRA 2025 Sim2Real Challenge (S2R2025)**](http://sim2real.net/track/track?nav=S2R2025)
-    
-    Organizer & Technical Support | Premier ICRA 2025 event focusing on high-fidelity simulation to real-world robot deployment.
+- **A Real-Sim-Real Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation**  
+  [arXiv](https://arxiv.org/abs/2503.10118)
 
-- [**RoboMaster 2024 University Sim2Real Challenge (RMUS 2024)**](http://sim2real.net/track/track/?nav=RMUS2024)
+## Open-source Projects
 
-    Organizer & Technical Support | Part of ICRA 2024. Advancing sim-to-real robotics via autonomous ore-exchange tasks.
+- [**MuJoCo-LiDAR**](https://github.com/discoverse-dev/MuJoCo-LiDAR): A high-performance LiDAR simulation tool for MuJoCo. ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/MuJoCo-LiDAR?style=social)
+
+- [**urdf2mjcf**](https://github.com/discoverse-dev/urdf2mjcf): One-click generation of simulation-ready MJCF files from URDF. ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/urdf2mjcf?style=social)
+
+- [**ROBOCON2026-MuJoCo**](https://github.com/discoverse-dev/ROBOCON2026): A MuJoCo simulation environment for ROBOCON 2026 with motion-control strategies, multi-sensor support, and ROS2 interfaces. ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/ROBOCON2026?style=social)
+
+## Academic Service
+
+- [**ICRA 2025 Sim2Real Challenge (S2R2025)**](http://sim2real.net/track/track?nav=S2R2025)  
+  Organizer & Technical Support. A premier ICRA 2025 event focused on high-fidelity simulation and real-world robot deployment.
+
+- [**RoboMaster 2024 University Sim2Real Challenge (RMUS 2024)**](http://sim2real.net/track/track/?nav=RMUS2024)  
+  Organizer & Technical Support. Part of ICRA 2024, advancing sim-to-real robotics through autonomous ore-exchange tasks.
