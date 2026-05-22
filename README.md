@@ -32,16 +32,6 @@ I am a PhD student at Tsinghua University, advised in embodied AI and robot lear
 - **Sim-to-real system design:** reusable bridges across simulators, robot assets, controllers, ROS2 interfaces, and deployment workflows.
 - **Whole-body mobile manipulation:** loco-manipulation systems that combine control, perception, and reinforcement learning under real robot constraints.
 
-## Selected Systems
-
-| System | Role | What it enables |
-| --- | --- | --- |
-| [GS-Playground](https://gsplayground.github.io/) | First author | High-throughput photorealistic simulation for vision-informed robot learning |
-| [DISCOVERSE](https://air-discoverse.github.io/) | First author | Efficient robot simulation in complex, high-fidelity environments |
-| [FGGS-LiDAR](https://arxiv.org/abs/2509.17390) | First / co-first author | Ultra-fast GPU-accelerated LiDAR simulation from general 3DGS models |
-| [MuJoCo-LiDAR](https://github.com/discoverse-dev/MuJoCo-LiDAR) | Open-source project | High-performance LiDAR simulation for MuJoCo |
-| [urdf2mjcf](https://github.com/discoverse-dev/urdf2mjcf) | Open-source project | One-click generation of simulation-ready MJCF assets from URDF |
-
 ## Research
 
 ### First / Co-first Author
