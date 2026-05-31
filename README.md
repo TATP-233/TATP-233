@@ -8,7 +8,7 @@
   <h3>Embodied AI Systems | High-Performance Simulation & Robot Learning Infrastructure</h3>
   <p>
     PhD Student, Department of Electronic Engineering, Tsinghua University<br>
-    Building scalable simulation, sensing, and sim-to-real systems for robot learning
+    Building scalable simulation, sensing, and sim-to-real systems for robot learning.
   </p>
 </div>
 
@@ -21,13 +21,14 @@
 
 ---
 
-I design and build high-throughput infrastructure for embodied intelligence: photorealistic robot simulators, GPU-accelerated sensor pipelines, real-sim-real evaluation workflows, and whole-body control systems that move research from algorithm prototypes toward deployable robot stacks.
+I design and build high-throughput infrastructure for embodied intelligence: RL training frameworks, photorealistic robot simulators, GPU-accelerated sensor pipelines, real-sim-real evaluation workflows, and whole-body control systems that move research from algorithm prototypes toward deployable robot stacks.
 
 I am a PhD student at Tsinghua University, advised in embodied AI and robot learning. I received my B.E. from the Department of Automation, Tsinghua University in 2023.
 
 ## Infrastructure Focus
 
 - **High-throughput robot simulation:** scalable simulators for vision-informed robot learning, high-fidelity environments, and large-scale policy training.
+- **Heterogeneous RL training systems:** decoupled CPU simulation, GPU learning, and runtime buffering for cross-platform embodied reinforcement learning.
 - **GPU-accelerated perception infrastructure:** fast LiDAR and 3D Gaussian Splatting based sensing pipelines for simulation and evaluation.
 - **Sim-to-real system design:** reusable bridges across simulators, robot assets, controllers, ROS2 interfaces, and deployment workflows.
 - **Whole-body mobile manipulation:** loco-manipulation systems that combine control, perception, and reinforcement learning under real robot constraints.
@@ -35,6 +36,9 @@ I am a PhD student at Tsinghua University, advised in embodied AI and robot lear
 ## Research
 
 ### First / Co-first Author
+
+- [**UniLab**] **UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms**  
+  [Webpage](https://unilabsim.github.io/) / [arXiv](https://arxiv.org/abs/2605.30313) / [Repo](https://github.com/unilabsim/UniLab) ![GitHub stars](https://img.shields.io/github/stars/unilabsim/UniLab?style=social)
 
 - [**RSS 2026**] **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**  
   [Webpage](https://gsplayground.github.io/) / [arXiv](https://arxiv.org/abs/2604.25459) / [Repo](https://github.com/discoverse-dev/gs_playground) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social)
