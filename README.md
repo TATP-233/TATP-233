@@ -37,8 +37,11 @@ I am a PhD student at Tsinghua University, advised in embodied AI and robot lear
 
 ### First / Co-first Author
 
-- [**UniLab**] **UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms**  
+- **UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms**  
   [Webpage](https://unilabsim.github.io/) / [arXiv](https://arxiv.org/abs/2605.30313) / [Repo](https://github.com/unilabsim/UniLab) ![GitHub stars](https://img.shields.io/github/stars/unilabsim/UniLab?style=social)
+
+- **MuJoCoUni: Persistent Batched Runtime Primitives for MuJoCo**  
+  [Webpage](https://unilabsim.github.io/) / [arXiv](https://arxiv.org/abs/2605.24922) / [Repo](https://github.com/unilabsim/mujoco_uni)
 
 - [**RSS 2026**] **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**  
   [Webpage](https://gsplayground.github.io/) / [arXiv](https://arxiv.org/abs/2604.25459) / [Repo](https://github.com/discoverse-dev/gs_playground) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social)
