@@ -46,17 +46,17 @@ I am a PhD student at Tsinghua University, advised in embodied AI and robot lear
 - [**RSS 2026**] **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**  
   [Webpage](https://gsplayground.github.io/) / [arXiv](https://arxiv.org/abs/2604.25459) / [Repo](https://github.com/discoverse-dev/gs_playground) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social)
 
+- [**IROS 2026**] **FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR**  
+  [arXiv](https://arxiv.org/abs/2509.17390) / [Repo](https://github.com/TATP-233/FGGS-LiDAR)
+
+- [**IROS 2026**] **FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**  
+  [arXiv](https://arxiv.org/abs/2509.17053) / [Repo](https://github.com/TATP-233/FILIC)
+
 - [**RAL 2026**] **ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations**  
   [Webpage](https://zheng-joe-lee.github.io/manivid3d/) / [arXiv](https://arxiv.org/abs/2509.11125)
 
 - [**IROS 2025 Oral**] **DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments**  
   [Webpage](https://air-discoverse.github.io/) / [arXiv](https://arxiv.org/abs/2507.21981) / [Repo](https://github.com/discoverse-dev/DISCOVERSE) ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/DISCOVERSE?style=social)
-
-- **FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR**  
-  [arXiv](https://arxiv.org/abs/2509.17390) / [Repo](https://github.com/TATP-233/FGGS-LiDAR)
-
-- **FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**  
-  [arXiv](https://arxiv.org/abs/2509.17053) / [Repo](https://github.com/TATP-233/FILIC)
 
 - [**IROS 2024 Oral**] **Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot**  
   [Webpage](https://acodedog.github.io/wheel-legged-loco-manipulation/) / [arXiv](https://arxiv.org/abs/2403.16535) / [Repo](https://github.com/aCodeDog/legged-robots-manipulation) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
@@ -65,6 +65,9 @@ I am a PhD student at Tsinghua University, advised in embodied AI and robot lear
   [Webpage](https://air.tsinghua.edu.cn/OpenARX6.htm)
 
 ### Co-author
+
+- [**IROS 2026**] **OmniDP: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception**
+  [arXiv](https://arxiv.org/pdf/2603.05355)
 
 - [**RSS 2026**] **HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation**  
   [arXiv](https://arxiv.org/abs/2602.06341)
